@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Giorge Lucas👋
--🔭 Atualmente  não estou trabalhando
+-🔭 Atualmente estou trabalhando como TI
 
--📚 Estou cursando Analise e Desenvolvimento de Sistemas
+-📚 Formado em ADS.
 
 -📚 Estou estudando Java na Cod3r
 
